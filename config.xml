@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <!-- Play an MP3/MP4 audio hosted on a public HTTPS URL -->
+  <Play>https://www.myinstants.com/media/sounds/yes-king-who-did-that-mess.mp3</Play>
+  <!-- or use <Say> for TTS -->
+  <!-- <Say voice="alice">Hello, this is a notification from Ethan...</Say> -->
+</Response>
